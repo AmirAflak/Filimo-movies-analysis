@@ -1,11 +1,11 @@
 # Filimo movies analysis
 # __Web scraping and analysis of Filimo Persian Movies__ 
-# project contains two seperate notebooks :
-##scaping notebook:
+# Project contains two seperate notebooks :
+#*Scaping notebook:
 in order to handle tasks(within analysis notebook), 
 I extracted some usefull contents and converted them into pandas DataFrame,
 eventually stored them as a csv file.
-##analysis notebook : 
+#*Analysis notebook : 
 I did my data wrangling and cleaning journey, 
 also i encountered some weird stuffs (matplotlib utf-8 encoding and use plotly more, split out genres and so on),
 ultimately i plotted my results into a meaningfull and interactive charts.
