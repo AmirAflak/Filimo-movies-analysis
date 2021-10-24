@@ -1,5 +1,6 @@
 # Filimo movies analysis
 # __Web scraping and analysis of [Filimo](http://filimo.com) Persian Movies__   
+# __Notice : above any notebook  make sure click on "open colab"__
 ## __Scaping notebook__
   in order to handle tasks(within analysis notebook), 
   I extracted some usefull contents and converted them into pandas DataFrame,
@@ -10,4 +11,4 @@
   ultimately i plotted my results into a meaningfull and interactive charts.
 ## __Tools__
 requests, BeautifulSoup4, selenium, numpy, pandas, matplotlib, plotly
-# __Special thanks for Namafar Team(mr.maghsoudi)__
+## __Special thanks for Namafar Team(mr.maghsoudi)__
