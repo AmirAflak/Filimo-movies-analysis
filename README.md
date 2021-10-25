@@ -1,6 +1,7 @@
 # Filimo movies analysis
 # __Web scraping and analysis of [Filimo](http://filimo.com) Persian Movies__   
 # __Notice : above any notebook  make sure click on "open colab"__
+# See Conclusions and reports on [Tableau](https://dub01.online.tableau.com/#/site/ardabil/workbooks/685584?:origin=card_share_link)
 ## __Scaping notebook__
   in order to handle tasks(within analysis notebook), 
   I extracted some usefull contents and converted them into pandas DataFrame,
